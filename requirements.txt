@@ -1,0 +1,4 @@
+Pillow
+h5py
+numpy
+chainer
